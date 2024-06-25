@@ -1,5 +1,5 @@
 <h1 align="center">Olá, tudo bem? Meu nome é Endryus Daniel.</h1>
-<h3 align="center">Sou um futuro deselvolvedor fullstack.</h3>
+<h3 align="center">Programmer | Fullstack Developer (aluno)</h3>
 
 <h3 align="left">Vamos bater um papo?</h3>
 <p align="left">
