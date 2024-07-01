@@ -1,7 +1,7 @@
 <h1 align="center">Olá, tudo bem? Meu nome é Endryus Daniel.</h1>
 <h3 align="center">Programmer | Fullstack Developer (aluno)</h3>
 
-- 👨‍💻 Caso queira ver mais do meu trabalho, entre no link: [https://exemple.com](https://exemple.com)
+- 👨‍💻 Caso queira ver mais do meu trabalho, entre no link: [Portfólio (em criação...)](https://exemple.com)
 
 - 📫 Estou aberto para participar de novos projetos, me mande um e-mail: **endryusdaniel6321@gmail.com**
 
