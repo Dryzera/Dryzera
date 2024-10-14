@@ -1,5 +1,5 @@
 <h1 align="center">Olá, tudo bem? Meu nome é Endryus Daniel.</h1>
-<h3 align="center">Programmer | Fullstack Developer (aluno)</h3>
+<h3 align="center">Programmer | BackEnd Developer (estudante)</h3>
 
 - 👨‍💻 Caso queira ver mais do meu trabalho, entre no link: [Portfólio (em criação...)](#)
 
