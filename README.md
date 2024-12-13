@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/endryus-daniel-rysik-de-oliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="endryus-daniel-rysik-de-oliveira" height="30" width="40" /></a>
 <a href="https://instagram.com/endryusdaniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="endryusdaniel" height="30" width="40" /></a>
-<a href="https://discord.gg/Dryzera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dryzera" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas que tenho alguma base:</h3>
