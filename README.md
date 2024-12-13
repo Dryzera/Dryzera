@@ -1,5 +1,5 @@
 <h1 align="center">Olá, tudo bem? Meu nome é Endryus Daniel.</h1>
-<h3 align="center">Programmer | Back-End Developer (estudante)</h3>
+<h3 align="center">Programmer | Back-End Developer</h3>
 
 - 👨‍💻 Caso queira ver mais do meu trabalho, entre no link: [Portfólio](https://endryus-daniel.vercel.app/)
 
