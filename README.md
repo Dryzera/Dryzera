@@ -1,7 +1,7 @@
 <h1 align="center">Olá, tudo bem? Meu nome é Endryus Daniel.</h1>
 <h3 align="center">Programmer | Back-End Developer</h3>
 
-- 👨‍💻 Caso queira ver mais do meu trabalho, entre no link: [Portfólio](https://endryus-daniel.vercel.app/)
+- 👨‍💻 Caso queira ver mais do meu trabalho, entre no [meu portfólio](https://endryus-daniel.vercel.app/)
 
 - 📫 Estou aberto para participar de novos projetos, me mande um e-mail: **endryusdaniel6321@gmail.com**
 
