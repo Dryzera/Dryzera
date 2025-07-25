@@ -30,6 +30,6 @@ Welcome to my GitHub profile! I'm a passionate **Python developer** and programm
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/endryus-daniel-rysik-de-oliveira/)
 - 📧 endryusdaniel6321@gmail.com
-- 🌐 [Portfolio](https://endryus-daniel.vercel.app)
+- 🌐 [Portfolio](https://endryus.com)
 
 Thanks for visiting! Feel free to explore my repos and reach out if you'd like to collaborate 🚀
