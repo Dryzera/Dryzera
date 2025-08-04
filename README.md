@@ -1,19 +1,19 @@
 # 👋 Hi there! I'm Endryus
 
-Welcome to my GitHub profile! I'm a passionate **Python developer** and programming tutor with a focus on backend development, web applications, and education. I'm currently studying software engineering and love building tools that help others learn to code.
+Welcome to my GitHub profile! I'm a passionate **Python developer** working in development focused on back-end development, web applications, and education. I'm currently studying software engineering and love building tools that help others learn to code.
 
 ## 🧠 About Me
 
 - 🔭 I’m currently working on educational apps and Django-based projects
 - 🌱 Learning more about **JavaScript**, **REST APIs**, and **frontend development**
-- 👨‍🏫 Teaching programming to high school students
+- 🛠 Working with BackEnd development at BW8
 - 🎯 My goal: To create accessible tech that makes learning easier and more fun
 - 📍 Based in Brazil 🇧🇷
 
 ## 🚀 Technologies & Tools
 
 - 🐍 Python (Django, Pygame, FastAPI)
-- 💻 HTML, CSS, JavaScript, TypeScript, React (vanilla & DOM)
+- 💻 HTML, CSS, JavaScript, TypeScript, React (vanilla & DOM), Next.js, Nest.js
 - 🛠️ Git & GitHub
 - 🎨 Figma for UI mockups
 - ☁️ Google Cloud Platform (GCP), VPS hosting
